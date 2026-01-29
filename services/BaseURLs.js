@@ -15,7 +15,7 @@
 // export const PAYMENTS_BASEURL = 'https://fb9mfhvk-5000.asse.devtunnels.ms/payments'
 // export const USER_BASEURL = 'https://fb9mfhvk-5000.asse.devtunnels.ms/me'
 
-export const WEBSITE_BASE_URL = 'https://greengo-mart-auefb3fnccc6ebf8.canadacentral-01.azurewebsites.net/'
+export const WEBSITE_BASE_URL = 'https://greengo-mart-auefb3fnccc6ebf8.canadacentral-01.azurewebsites.net'
 export const PRODUCTS_BASEURL = 'https://greengo-server-hadqcreshwafhzeh.canadacentral-01.azurewebsites.net/products'
 export const ORDERS_BASEURL = 'https://greengo-server-hadqcreshwafhzeh.canadacentral-01.azurewebsites.net/orders'
 export const SHIPPING_BASEURL = 'https://greengo-server-hadqcreshwafhzeh.canadacentral-01.azurewebsites.net/shipping'
