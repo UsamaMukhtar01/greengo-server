@@ -9,7 +9,7 @@ const defaults = {
 }
 
 export const orderConfirmation = async (req, res) => {
-    const {to, order} = req.body;    
+    const {to, order} = req.body;
     const email = {
         ...defaults,
         to,
@@ -27,7 +27,7 @@ const sendEmail = async (email, res) => {
         console.log(`Email sent to ${email.to}`);
         res.status(200).json({email, result: 'Sent Successfully'});
     } catch (e) {
-        console.error(e);
+        console.error("Error in sending email");
         res.status(400).json({message: e.message});
     }
 }

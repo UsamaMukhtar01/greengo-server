@@ -7,7 +7,6 @@
 // export const USER_BASEURL = 'https://rabbitmart-users.vercel.app/me'
 
 // export const WEBSITE_BASE_URL = 'https://fb9mfhvk-3000.asse.devtunnels.ms'
-// export const WEBSITE_BASE_URL = 'https://greengo-mart-auefb3fnccc6ebf8.canadacentral-01.azurewebsites.net/'
 // export const PRODUCTS_BASEURL = 'https://fb9mfhvk-5000.asse.devtunnels.ms/products'
 // export const ORDERS_BASEURL = 'https://fb9mfhvk-5000.asse.devtunnels.ms/orders'
 // export const SHIPPING_BASEURL = 'https://fb9mfhvk-5000.asse.devtunnels.ms/shipping'
